@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJsonNet", "TestJsonNet.csproj", "{AC22A978-D9A0-452B-BE0B-47A3382F0ED3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingNewtonsoftJsonNet", "UsingNewtonsoftJsonNet\UsingNewtonsoftJsonNet.csproj", "{AC22A978-D9A0-452B-BE0B-47A3382F0ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingJavascriptJsonSerializer", "..\UsingJavascriptJsonSerializer\UsingJavascriptJsonSerializer.csproj", "{FBFF0909-9F59-46DE-A5F5-C102D7B9A128}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingJavascriptJsonSerializer", "UsingJavascriptJsonSerializer\UsingJavascriptJsonSerializer.csproj", "{FBFF0909-9F59-46DE-A5F5-C102D7B9A128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A2AF35A6-B3A7-4450-97A9-6E2DDA487B2C}
+		SolutionGuid = {29A33446-0A17-4B82-A33C-D02EBA2A9219}
 	EndGlobalSection
 EndGlobal

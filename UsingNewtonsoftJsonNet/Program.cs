@@ -8,7 +8,7 @@ using Newtonsoft.Json.Linq;
 // Creating JSON https://www.newtonsoft.com/json/help/html/CreatingLINQtoJSON.htm
 // 
 
-namespace TestJsonNet
+namespace UsingNewtonsoftJsonNet
 {
     class Program
     {
